@@ -1,4 +1,7 @@
+<!-- @format -->
+
 <<<<<<< HEAD
+
 <!-- @format -->
 
 # Countdown Timer
@@ -8,7 +11,7 @@ Countdown Timer adalah skrip sederhana yang memungkinkan pengguna untuk memasukk
 ## Cara Menggunakan
 
 1. Pastikan Python telah terpasang di komputer Anda.
-2. Clone repositori ini atau unduh file `countdown_timer.py`.
+2. Clone repositori ini atau unduh file `main.py`.
 3. Buka terminal atau command prompt.
 4. Jalankan skrip dengan menjalankan perintah berikut:
 5. Ikuti petunjuk untuk memasukkan jumlah waktu dalam detik.
@@ -26,7 +29,8 @@ Jika Anda menemukan bug atau ingin mengusulkan perbaikan, silakan buka [issue](h
 
 ## Lisensi
 
-Distributed under the MIT License. See `LICENSE` for more information.
-=======
+# Distributed under the MIT License. See `LICENSE` for more information.
+
 This program is for counting down time
->>>>>>> 0df3a39b6dadad2033001db08f35278973b642b3
+
+> > > > > > > 0df3a39b6dadad2033001db08f35278973b642b3
