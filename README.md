@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- @format -->
 
 # Countdown Timer
@@ -26,3 +27,6 @@ Jika Anda menemukan bug atau ingin mengusulkan perbaikan, silakan buka [issue](h
 ## Lisensi
 
 Distributed under the MIT License. See `LICENSE` for more information.
+=======
+This program is for counting down time
+>>>>>>> 0df3a39b6dadad2033001db08f35278973b642b3
